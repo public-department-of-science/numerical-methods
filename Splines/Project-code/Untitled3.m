@@ -1,0 +1,3 @@
+Akima();
+Cubic();
+Hermit();
