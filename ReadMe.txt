@@ -21,7 +21,13 @@ I'm just kidding, if you want to know smth new from these folders - please, enjo
 2) numerical-methods; approximation-methods:
 
 Here is my favourite place from where I have been initially started my science path in 2015 - splines:
-	It's great family of algorithms to approximate your function view by points.
+	It's great family of algorithms to approximate your function-view by points.
 
 - My favourite spline - is Akima's spline which one can help you to deal with unexpected 'jumping' points on your graph by 5-point prediction and smoothing your results.
 - In the folder you can find program-code and some basic theory for Akima's and for another splines possible you will want to use.
+- The programmatic solution files were patented.
+
+My science director was: Yarova Olha Volodymyrivna,
+Senior Lecturer of Department Mathematical Modeling and Artificial Intelligence (Kharkiv National Aerospace University).
+
+Link: https://k304.khai.edu/staff-members/yarovaya-olga-vladimirovna/
