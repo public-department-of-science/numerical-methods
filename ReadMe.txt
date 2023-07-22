@@ -29,5 +29,6 @@ Here is my favourite place from where I have been initially started my science p
 
 My science director was: Yarova Olha Volodymyrivna,
 Senior Lecturer of Department Mathematical Modeling and Artificial Intelligence (Kharkiv National Aerospace University).
-
 Link: https://k304.khai.edu/staff-members/yarovaya-olga-vladimirovna/
+
+Consulting in area of Akima splynes: Chernyshov Yuriy Kostyantynovych
