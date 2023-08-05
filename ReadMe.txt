@@ -32,3 +32,5 @@ Senior Lecturer of Department Mathematical Modeling and Artificial Intelligence 
 Link: https://k304.khai.edu/staff-members/yarovaya-olga-vladimirovna/
 
 Consulting in area of Akima splynes: Chernyshov Yuriy Kostyantynovych
+
+Video: https://www.youtube.com/watch?v=9yZNpAVEaw0
